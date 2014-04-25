@@ -1,6 +1,6 @@
 Autor: @Royercross
 
-fontend-profesional
+frontend-profesional
 ===================
 
 Repositorio de Curso Profesional Mejorando.la 
